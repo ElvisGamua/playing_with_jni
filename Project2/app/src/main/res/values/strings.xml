@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ArrayTypes</string>
+    <string-array name="types">
+        <item>StringArrayType</item>
+        <item>ShortArrayType</item>
+        <item>BooleanArrayType</item>
+        <item>ByteArrayType</item>
+        <item>CharArrayType</item>
+        <item>DoubleArrayType</item>
+        <item>IntegerArrayType</item>
+        <item>LongArrayType</item>
+        <item>FloatArrayType</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PrimitiveTypesApp</string>
+    <string-array name="types">
+        <item>String</item>
+        <item>Short</item>
+        <item>Boolean</item>
+        <item>Byte</item>
+        <item>Char</item>
+        <item>Double</item>
+        <item>Integer</item>
+        <item>Long</item>
+        <item>Float</item>
+    </string-array>
+
+
+
+</resources>
